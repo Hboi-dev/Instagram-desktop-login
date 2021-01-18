@@ -1,0 +1,1 @@
+It's self satisfactory, when you see a page and decides to make your own prototype version of it despite foreseen difficulties. Here, is a instagram desktop login page, which I design with HTML and CSS.
